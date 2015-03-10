@@ -39,6 +39,18 @@ img {display: block;
 		box-shadow: 10px 10px 5px #888888;
 		color: white;}
 
+.grid {height: 315px;
+	   width:315px;}
+
+
+.fixedlayout {height: 100px;
+			  width: 100px;
+			  border: 1.5px solid black;
+			  background-color:grey;
+			  float: left;}
+			   
+
+
 
 
 
