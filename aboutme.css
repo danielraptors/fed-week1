@@ -1,0 +1,42 @@
+html 
+*:before,
+*:after {box-sizing:inherit;}
+
+body {font: 13px arial, sans-serif, comic;
+	  line-height: 1; 
+	  color: black;}
+	  
+
+.aboutheader {width: 100%;
+			  height: 25px;
+			  font-weight: bold;
+			  text-align: right; 
+			  border: 1px solid black;
+			  z-index: -10;
+			  margin-bottom: 1px; }
+
+#barheader {z-index:10;									      
+	        width:100%;
+			height:30px;
+		    background-color: #FF6633;	
+		    top:1px;
+			font-weight: bold;
+			text-align: center;
+			border:2px solid #505050;}
+
+.frontimage 
+
+img {display: block;
+	 margin-left: auto;
+	 margin-right: auto;
+	 width: 50%;
+	 height: 28em; }
+
+			  
+
+
+
+
+
+
+        
